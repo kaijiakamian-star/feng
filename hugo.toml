@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://m6820.dpdns.org"
 languageCode = "zh-CN"
 title = "feng导航站"
 theme = "hugo-webstack"
