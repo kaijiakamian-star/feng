@@ -31,7 +31,7 @@
     - title: visa虚拟卡
       qrcode: images/qrcodes/usdt.png
       logo:
-      url: https://app.pokepay.cc/pages/passport/invitation?r=145892
+      url: "https://app.pokepay.cc/pages/invitation/regist?r=543564"
       description: usdt套现，国内拼多多消费，支付宝消费
     - title: IOS (苹果) ID 礼品卡/兑换码
       logo:  images/logos/5eac6d69dc12980944f98.jpg
