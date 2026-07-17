@@ -59,6 +59,10 @@
       logo: 
       url: https://clipboard.168668520.xyz/
       description: 提供数据暂存和传送服务
+    - title: 草料二维码
+      logo: 
+      url: https://cli.im/url
+      description: 在线二维码生成工具
     - title: UUID生成
       url: https://99688988.xyz/uuid-generator/
       description: UUID在线生成
