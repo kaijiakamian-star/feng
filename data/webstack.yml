@@ -60,7 +60,7 @@
       url: https://clipboard.168668520.xyz/
       description: 提供数据暂存和传送服务
     - title: 草料二维码
-      logo: 
+      logo: static/images/logos/草料二维码.png
       url: https://cli.im/url
       description: 在线二维码生成工具
     - title: UUID生成
